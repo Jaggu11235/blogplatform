@@ -1,0 +1,2 @@
+# blogplatform
+Simple blog platform.
